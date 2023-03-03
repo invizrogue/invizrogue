@@ -34,3 +34,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains"  alt="JetBrains" width="40" height="40"/>&nbsp;
 
 </div>
+
+---
+### :fire: Статистика:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=invizrogue&theme=dark&background=000000)](https://git.io/streak-stats)
